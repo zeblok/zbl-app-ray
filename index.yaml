@@ -9,6 +9,6 @@ entries:
     name: ray
     type: application
     urls:
-    - https://github.com/zeblok/zbl-app-ray/ray-0.2.0.tgz
+    - https://zeblok.github.io/zbl-app-ray/ray-0.2.0.tgz
     version: 0.2.0
 generated: "2023-04-23T12:04:02.442749547Z"

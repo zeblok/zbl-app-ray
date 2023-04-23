@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ray:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-04-23T12:04:02.444753019Z"
+    description: A Helm chart for deployments of Ray on Kubernetes.
+    digest: c2b815272a86c9c4bf601ca3b7f17504ee3addce64ea8bae95f9b0a4c97e49a7
+    name: ray
+    type: application
+    urls:
+    - https://github.com/zeblok/zbl-app-ray/ray-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-04-23T12:04:02.442749547Z"
